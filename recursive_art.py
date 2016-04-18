@@ -6,8 +6,6 @@ import random
 from math import *
 from PIL import Image
 
-#Functions
-
 class Art(): 
 
     def __init__ (self, filepath):
